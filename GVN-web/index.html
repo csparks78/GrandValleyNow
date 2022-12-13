@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Grand Valley Now</title>
+    <!-- line 8 makes website readable on mobile, which is important to the client -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="img/icon.ico">
+    <link rel="stylesheet" href="css\style.css">
+    <!-- <link rel="stylesheet" href="css\index.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" charset="utf-8"></script>
+    <!--vv Leaflet vv-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+        integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+        integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+</head>
+
+<body>
+    
+    <header>
+        <div class="title">Grand Valley <span class="span">Now</span>
+        </div>
+        <div class="collapse-bttn">
+            <i class="fa fa-bars" aria-hidden="true" onclick="toggleSidebar()"></i>
+        </div>
+        <!-- NAVIGATION MENU -->
+        
+        <div class="navbar">
+            <a class="active" href="#"><i class="fa fa-fw fa-search"></i></a>
+            <a class="active" href="#"><i class="fa fa-fw fa-envelope"></i></a>
+            <a class="active" href="#"><i class="fa fa-fw fa-user"></i></a>
+            <a class="active" href="#"><i class="fa fa-fw fa-home"></i></a>
+        </div>
+        
+        <script src="js/sbtoggle.js"></script>
+    </header>
+        <!-- SIDEBAR -->
+    <div class="main">
+        <div id="sb" class="sidebar">
+            <div id="logo">
+                <img src="img\gvnAlpha.png" width="200px" height="200px">
+            </div>
+            <!-- <a href="Something"  class="button1">Button 1</a> **FIXME** What do the buttons do?  -->
+            <!-- <a href="something" class="button1">Button 2</a>**FIXME** What do the buttons do?  -->
+            <!-- <a href="Something"  class="button1">Button 3</a> **FIXME** What do the buttons do?  -->
+            <!-- <a href="something" class="button1">Button 4</a>**FIXME** What do the buttons do?  -->
+            <div id="buttons" class="filter-buttons">
+                <button class="button" onclick="alert('Button 1 pushed')">Button 1</button>
+                <button class="button" onclick="window.location.href='events.html';">Events</button>
+                <!--eg. On click run script-->
+                <button class="button" onclick="window.location.href='calendar.html';">Calendar</button>
+                <button class="button" role="button">Button 4</button>
+                <button class="button" role="button">Button 5</button>
+                <button class="button" role="button">Button 6</button>
+            </div>
+        </div>
+        <article>
+            <div id="map">
+                <script src="js/map.js"></script>
+                <script src="js/filter.js"></script>
+            </div>
+        </article>
+        
+        <!-- <aside>
+            Aside
+        </aside> -->
+    </div>
+    <footer>
+        <!-- Copyright -->
+        <center>
+            <div id="footer-link">
+                <a href="https://www.openstreetmap.org/copyright" style="color: rgb(0, 0, 0)"
+                    target="_blank">OpenStreetMap</a>
+            </div>
+            <div id="footer-copyright">
+                © 2022 Copyright: Grand Valley Now
+            </div>
+        </center>
+    </footer>
+
+</body>

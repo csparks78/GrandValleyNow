@@ -1,0 +1,309 @@
+* {
+  box-sizing: border-box; 
+}
+body {
+  font-family:"Roboto", sans-serif;
+  height: 100%;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0;
+  overflow: auto;
+  
+}
+.main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  background-color: #2e828d;
+}
+/***********************
+Header stuff           * 
+************************/
+header{
+  z-index:1;
+  background:#20474c;
+  /* position:fixed; */
+  width:100%;
+  display:flex;
+  top:0;
+  align-items: center;
+}
+header .title{
+  color: #fff;
+  font-size:25px;
+  text-transform:uppercase;
+  font-weight:900;
+  width: 100%;
+  align-items: center;
+  padding: 10px
+}
+.span {
+  color: #e90e0e;
+  font-size: 35px;
+  text-transform: uppercase;
+  font-weight: 900;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
+/* Style - navigation bar */
+.navbar {
+  width: 100%;
+  /* background-color: #555; */
+  overflow: auto;
+  padding: 10px;
+
+}
+/* Navbar links */
+.navbar a {
+  float: right;
+  text-align: center;
+  padding: 0px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 17px;
+
+}
+/* Navbar links on mouse-over */
+.navbar a:hover {
+  /* background:#2e828d; */
+  background:#2e828d;
+  margin: 0 10px;
+  height: 34px;
+  width: 34px;
+  border-radius: 50%;
+  
+}
+.collapse-bttn {
+  color:#fff;
+  text-align: left;
+  position:absolute;
+  margin-left:328px;
+  font-size:30px;
+  font-weight:900;
+  padding: 10px;
+  cursor:pointer;
+  transition:0.3s;
+  transition-property:color;
+}
+
+.collapse-bttn:hover {
+  color:#2e828d;
+}
+/* Current/active navbar link */
+header .navbar .active i {
+  background: #fff;
+  color: #000;
+  display: block;
+  margin: 0 10px;
+  font-size: 18px;
+  height: 34px;
+  width: 34px;
+  line-height: 35px;
+  text-align: center;
+  border-radius: 50%;
+  /*round bois*/
+  transition: 0.3s;
+  transition-property: color;
+}
+
+/***********************
+END - Header stuff     *
+************************/
+
+
+/***********************
+*Sidebar things        *
+***********************/
+
+.sidebar { /*sidebar settings*/
+  height: 100%;
+  width: 350px;
+  position: fixed;
+  z-index: 1;
+  top: 20;
+  left: 0;
+  background-color: #245157;
+  overflow-x: hidden;
+  padding-top: 10px;
+  transition: 0.5s;
+}
+
+#logo{
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+/***********************
+*END - Sidebar things  *
+***********************/
+
+/***********************
+*START - Button styling*
+***********************/
+
+.filter-buttons{
+  text-align: center;
+}
+.button {
+  min-width: 200px;
+  text-shadow: 5px 5px 5px #000000;
+  margin-bottom: 20px;
+  background: transparent;
+  backface-visibility: hidden;
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: .125rem;
+  box-sizing: border-box;
+  color: #fffdfd;
+  cursor: pointer;
+  font-family: Circular,Helvetica,sans-serif;
+  font-size: 1.125rem;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  line-height: 1.3;
+  padding: .5rem 4rem;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transform: translateZ(0) scale(1);
+  transition: transform .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button:not(:disabled):hover {
+  transform: scale(1.05);
+  background-color:#2e828d;
+  color: #000;
+}
+
+.button:not(:disabled):hover:active {
+  transform: scale(1.05) translateY(.125rem);
+}
+
+.button:focus {
+  outline: 0 solid transparent;
+}
+
+.button:focus:before {
+  content: "";
+  left: calc(-1*.375rem);
+  pointer-events: none;
+  position: absolute;
+  top: calc(-1*.375rem);
+  transition: border-radius;
+  user-select: none;
+}
+
+.button:focus:not(:focus-visible) {
+  outline: 0 solid transparent;
+}
+
+.button:focus:not(:focus-visible):before {
+  border-width: 0;
+}
+
+.button:not(:disabled):active {
+  transform: translateY(.125rem);
+}
+
+/***********************
+*END - Button Styling  *
+***********************/
+
+/***********************
+* Leaflet              *
+***********************/
+
+#map { 
+  height: 100%; /*NEEDS TO BE 100% TO WORK FOR ALL MONITOR RESOLUTIONS PLS DONT CHANGE IT BACK*/
+  z-index: 0; 
+  border-radius: 10px;
+  margin-left: 350px; /*map starts pushed out so it is not hidden by the sidebar*/
+}
+
+/***********************
+* END - Leaflet        *
+***********************/
+
+/***********************
+* Calendar             *
+***********************/
+table {
+  border-collapse: collapse;
+  background: white;
+  color: black;
+}
+
+th,
+td {
+  font-weight: bold;
+}
+/***********************
+* END - Calendar       *
+***********************/
+
+/***********************
+* Responsiveness stuff *
+***********************/
+#main { /* pushes page content to right when opening the sidebar */
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+.main > article {
+  flex: 1;
+  /* padding-top: 100px; */
+  height: auto;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+}
+
+footer{
+  background-color: #0e4147;
+  position:relative;
+  z-index: 2;
+}
+
+header, footer, article, sidebar {
+  padding: 1em;
+}
+
+@media screen and (min-width: 576px) {
+  .main {
+    flex-direction: row;
+  }
+  .main > aside {
+    flex: 0 0 20vw;
+  }  
+}
+
+/* changes size of fonts and stuff when screen size is small */
+@media screen and (max-width: 600px){
+  #map {
+    margin-left: 0px; 
+    height: 60vh; 
+    width: 90vw;
+  }
+  .sidebar {
+    padding-top: 15px; 
+    max-height: 80vh;
+  }
+  .collapse-bttn {
+    margin-left: 120px;
+  }
+  #logo { 
+    display: none; /* hide the logo on screen sizes that are not 600px wide to avoid too much visual noise on screen*/
+  } 
+  footer {
+    max-height: 8vh;
+  }
+}
+

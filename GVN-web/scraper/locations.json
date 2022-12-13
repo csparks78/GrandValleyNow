@@ -1,0 +1,218 @@
+{
+    "University Plaza": {
+        "location": [
+            "tent",
+            "big tent",
+            "plaza",
+            "campus plaza"
+        ],
+        "coordinates": [
+            39.080490361408785,
+            -108.55454288899365
+        ]
+    },
+    "University Center": {
+        "location": [
+            "uc",
+            "university center",
+            "criterion office"
+        ],
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    "Houston Hall": {
+        "location": [
+            "hh",
+            "houston hall",
+            "houston"
+        ],
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    "Escalante Hall": {
+        "location": [
+            "eh",
+            "escalante hall",
+            "escalante"
+        ],
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    "Dominguez Hall": {
+        "location": [
+            "dh",
+            "dominguez hall",
+            "dominguez"
+        ],
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    "Outdoor Program": {
+        "location": [
+            "outdoor program",
+            "op",
+            "outdoor"
+        ],
+        "coordinates": [
+            39.077715117048825,
+            -108.55504680014351
+        ]
+    },
+    "Wubben Hall": {
+        "location": [
+            "wubben",
+            "wubben hall",
+            "wh",
+            "science center"
+        ],
+        "coordinates": [
+            39.07948737456297,
+            -108.55364447204818
+        ]
+    },
+    "The Point": {
+        "location": [
+            "the point"
+        ],
+        "coordinates": [
+            39.08058974280496,
+            -108.55382087302995
+        ]
+    },
+    "Maveric center": {
+        "location": [
+            "mav center",
+            "maveric center"
+        ],
+        "coordinates": [
+            39.08314745632058,
+            -108.55452863493103
+        ]
+    },
+    "Tomlinson Library": {
+        "location": [
+            "tomlinson library",
+            "library",
+            "tl"
+        ],
+        "coordinates": [
+            39.07856035131673,
+            -108.55442575784276
+        ]
+    },
+    "Confluence Hall": {
+        "location": [
+            "confluence hall",
+            "confluence",
+            "ch"
+        ],
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    "Alumni Field": {
+        "location": [
+            "alumni field"
+        ],
+        "coordinates": [
+            39.08079391300373,
+            -108.5554599750262
+        ]
+    },
+    "Delta Field": {
+        "location": [
+            "delta field"
+        ],
+        "coordinates": [
+            39.07921593973528,
+            -108.55494984918597
+        ]
+    },
+    "IRIS Building": {
+        "location": [
+            "mavzone",
+            "iris",
+            "lowell heiney hall"
+        ],
+        "coordinates": [
+            39.07981696290064,
+            -108.55305237249166
+        ]
+    },
+    "random": {
+        "location": [
+            "null"
+        ],
+        "coordinates": [
+            [
+                39.078434059356454,
+                -108.5555764471869
+            ],
+            [
+                39.079316887636075,
+                -108.55620944852642
+            ],
+            [
+                39.08034128773726,
+                -108.5563274657253
+            ],
+            [
+                39.08144062742309,
+                -108.55634892340127
+            ],
+            [
+                39.08266487188353,
+                -108.55605924482218
+            ],
+            [
+                39.08449703481543,
+                -108.55578029508582
+            ],
+            [
+                39.084397099884015,
+                -108.55294788231237
+            ],
+            [
+                39.08288140273425,
+                -108.55309808602004
+            ],
+            [
+                39.08164050554884,
+                -108.55333412041784
+            ],
+            [
+                39.08119359872941,
+                -108.55327131517936
+            ],
+            [
+                39.079161465475735,
+                -108.55306746729036
+            ],
+            [
+                39.07811206227221,
+                -108.5530567384541
+            ],
+            [
+                39.07909483716496,
+                -108.55439784298697
+            ],
+            [
+                39.08022750989123,
+                -108.55448367367708
+            ],
+            [
+                39.08113530064012,
+                -108.55448367367708
+            ]
+        ]
+    }
+}

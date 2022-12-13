@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Grand Valley Now</title>
+    <!-- line 8 makes website readable on mobile, which is important to the client -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="img/icon.ico">
+    <link rel="stylesheet" href="css\style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" charset="utf-8"></script>
+    <!--vv Leaflet vv-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+        integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+        integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+</head>
+
+<body>
+    
+    <header>
+        <div class="title">Grand Valley <span class="span">Now</span>
+        </div>
+        <div class="collapse-bttn">
+            <i class="fa fa-bars" aria-hidden="true" onclick="toggleSidebar()"></i>
+        </div>
+        <!-- NAVIGATION MENU -->
+        <div class="navbar">
+            <a class="active" href="#"><i class="fa fa-fw fa-user"></i></a>
+            <a class="active" href="#"><i class="fa fa-fw fa-envelope"></i></a>
+            <a class="active" href="#"><i class="fa fa-fw fa-search"></i></a>
+            <a class="active" href="index.html"><i class="fa fa-fw fa-home"></i></a>
+        </div>
+        <script src="js/sbtoggle.js"></script>
+    </header>
+        <!-- SIDEBAR -->
+    <div class="main">
+        <div id="sb" class="sidebar">
+            <div id="logo">
+                <center><img src="img\gvnAlpha.png" width="200px" height="200px"></center>
+            </div>
+            <p>Here we can add a filter for showing events based on date or type.</p>
+        </div>
+        <article>
+            <div id="content">
+                <h1>This is where we plan to have events displayed in a list.</h1>
+            </div>
+        </div>
+        </article>
+        <!-- <aside>
+            Aside
+        </aside> -->
+    </div>
+    <footer>
+        Footer
+    </footer>
+</body>

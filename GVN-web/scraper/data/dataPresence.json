@@ -1,0 +1,1406 @@
+[
+    {
+        "title": "Mesa Climbing Competition With Climbing Club",
+        "organization": "Climbing Club",
+        "dotw": "",
+        "date": "11/28/2022",
+        "stime": "2:00 PM",
+        "ftime": "",
+        "loc": "Maverick Pavilion",
+        "coordinates": [
+            39.08288140273425,
+            -108.55309808602004
+        ]
+    },
+    {
+        "title": "HPA Fundraiser Tabline",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "10:00 AM",
+        "ftime": "",
+        "loc": "University Center 1st Floor",
+        "coordinates": [
+            39.079161465475735,
+            -108.55306746729036
+        ]
+    },
+    {
+        "title": "Ratio Christi Tabling in the UC",
+        "organization": "Ratio Christi",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "11:30 AM",
+        "ftime": "",
+        "loc": "UC First Floor",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Mock Trial Meeting",
+        "organization": "Mock Trial",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 132",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "HPA Luau Practice",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "Mav Center 130 D",
+        "coordinates": [
+            39.07811206227221,
+            -108.5530567384541
+        ]
+    },
+    {
+        "title": "Ratio Christi Weekly Meeting",
+        "organization": "Ratio Christi",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "Escalante 243",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "InterVarsity Community Dinner",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "Escalante 128",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Native American Student Association Meeting",
+        "organization": "Native American Student Association",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "EH 132",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Master Plan Ministries Weekly Meeting",
+        "organization": "Master Plan Ministries",
+        "dotw": "",
+        "date": "11/29/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "HOUSTON HALL RM 139",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "8:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Native American Student Association Frybread Sale",
+        "organization": "Native American Student Association",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "10:00 AM",
+        "ftime": "",
+        "loc": "Alumni Field",
+        "coordinates": [
+            39.079316887636075,
+            -108.55620944852642
+        ]
+    },
+    {
+        "title": "Social Work Club Self-Care and Pies",
+        "organization": "Social Work Club",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "12:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 226",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Hoolokahi Polynesian Alliance Fundraising",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "1:15 PM",
+        "ftime": "",
+        "loc": "Downstairs University Center",
+        "coordinates": [
+            39.08288140273425,
+            -108.55309808602004
+        ]
+    },
+    {
+        "title": "December CEC club meeting",
+        "organization": "Council for Exceptional Children Student Chapter (CEC Club)",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "3:00 PM",
+        "ftime": "",
+        "loc": "Dominguez Hall Room 112",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "CJA Club Meeting",
+        "organization": "Criminal Justice Association",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 106",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Cyber Security Club Weekly Meeting",
+        "organization": "Cybersecurity @ CMU",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "CH 310",
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    {
+        "title": "EWB Weekly Meeting",
+        "organization": "Engineers Without Borders - CMU Chapter",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "CH 305",
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    {
+        "title": "Mesa Climbing Competition Awards Ceremony with Climbing Club",
+        "organization": "Climbing Club",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "Maverick Pavilion",
+        "coordinates": [
+            39.079316887636075,
+            -108.55620944852642
+        ]
+    },
+    {
+        "title": "ARISE Breakout Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "6:30 PM",
+        "ftime": "",
+        "loc": "UC 224, EH 303, DH 315",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "CMU FCA Co-ed Small Group",
+        "organization": "Fellowship of Christian Athletes",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Third floor classroom in Dominguez (whatever is available)",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "Gamma Phi Beta Chapter Meeting",
+        "organization": "Gamma Phi Beta",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Dominguez 111",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "InterVarsity Bible Study (Wed.)",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante 129",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Video and Tabletop Game club Wednesday game night",
+        "organization": "Video Game Club",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante 130",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "WiSE Weekly Meeting",
+        "organization": "Women in Science and Engineering",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Confluence Hall 105",
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    {
+        "title": "WiSE Weekly Meeting",
+        "organization": "Women in Science and Engineering",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Confluence Hall 105",
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    {
+        "title": "Girl Gains Self-Defense Pt. 2",
+        "organization": "Girl Gains",
+        "dotw": "",
+        "date": "11/30/2022",
+        "stime": "7:30 PM",
+        "ftime": "",
+        "loc": "MC 130D",
+        "coordinates": [
+            39.08266487188353,
+            -108.55605924482218
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Registration Help Room",
+        "organization": "Student Success and Engagement",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "1:00 PM",
+        "ftime": "",
+        "loc": "Tomlinson Library, Room 212",
+        "coordinates": [
+            39.08144062742309,
+            -108.55634892340127
+        ]
+    },
+    {
+        "title": "Ho'olokahi Polynesian Alliance Club Meeting",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "3:30 PM",
+        "ftime": "",
+        "loc": "EH 101",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "HPA Luau Practice",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "3:30 PM",
+        "ftime": "",
+        "loc": "Mav Center 130D",
+        "coordinates": [
+            39.07909483716496,
+            -108.55439784298697
+        ]
+    },
+    {
+        "title": "Winter Holidays with Anthropology Club",
+        "organization": "Anthropology Club",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 107",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Sexual Citizens Club: Speed Dating and Healthy Relationships",
+        "organization": "Sexual Citizens",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "UC Ballroom",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Hospitality Management Club Bi-Weekly Meeting",
+        "organization": "Hospitality Management Club",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Dominguez Hall 111",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "Social Circle: Networking Event",
+        "organization": "The Social Circle",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "3rd Floor Escalante Hall",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Weekly Forensic Science Club Meeting",
+        "organization": "Forensic Science Club",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "Preferably where our previous meetings are held",
+        "coordinates": [
+            39.08164050554884,
+            -108.55333412041784
+        ]
+    },
+    {
+        "title": "CMU FCA Men's Bible Study",
+        "organization": "Fellowship of Christian Athletes",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante Room 324",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "CMU FCA Women's Bible Study",
+        "organization": "Fellowship of Christian Athletes",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Third floor classroom in Dominguez (whatever is available)",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "InterVarsity Bible Study (Thurs.)",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "12/01/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante 129",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "PAC Volunteer Tabling",
+        "organization": "Programming Activities Council (PAC)",
+        "dotw": "",
+        "date": "12/02/2022",
+        "stime": "10:00 AM",
+        "ftime": "",
+        "loc": "UC First floor",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Ratio Christi Tabling in the UC",
+        "organization": "Ratio Christi",
+        "dotw": "",
+        "date": "12/02/2022",
+        "stime": "11:30 AM",
+        "ftime": "",
+        "loc": "UC First Floor",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "SPS Fifth Meeting",
+        "organization": "Society of Physics Students",
+        "dotw": "",
+        "date": "12/02/2022",
+        "stime": "12:00 PM",
+        "ftime": "",
+        "loc": "Wubben 218",
+        "coordinates": [
+            39.07948737456297,
+            -108.55364447204818
+        ]
+    },
+    {
+        "title": "Math Club REU Day",
+        "organization": "Math Club",
+        "dotw": "",
+        "date": "12/02/2022",
+        "stime": "3:00 PM",
+        "ftime": "",
+        "loc": "WS 112",
+        "coordinates": [
+            39.07811206227221,
+            -108.5530567384541
+        ]
+    },
+    {
+        "title": "3D Printing Club Meeting",
+        "organization": "Mavs 3D Printing Club",
+        "dotw": "",
+        "date": "12/02/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "CH110",
+        "coordinates": [
+            39.08144062742309,
+            -108.55634892340127
+        ]
+    },
+    {
+        "title": "Video Game Club Friday Game Night",
+        "organization": "Video Game Club",
+        "dotw": "",
+        "date": "12/02/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante Hall 130",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Save a Life Day (GEMS)",
+        "organization": "Graduate Education in Medical Sciences (GEMS) Club",
+        "dotw": "",
+        "date": "12/03/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Wubben 161 and 162",
+        "coordinates": [
+            39.07948737456297,
+            -108.55364447204818
+        ]
+    },
+    {
+        "title": "Gamma Phi Beta Executive Officer Transitions",
+        "organization": "Gamma Phi Beta",
+        "dotw": "",
+        "date": "12/03/2022",
+        "stime": "12:00 PM",
+        "ftime": "",
+        "loc": "DH 111",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "Phi Alpha- Holiday social",
+        "organization": "Phi Alpha Rho Sigma Tau Social Work Honor Society",
+        "dotw": "",
+        "date": "12/03/2022",
+        "stime": "12:30 PM",
+        "ftime": "",
+        "loc": "HH-226",
+        "coordinates": [
+            39.079161465475735,
+            -108.55306746729036
+        ]
+    },
+    {
+        "title": "Gamma Phi Beta Officer Transitions",
+        "organization": "Gamma Phi Beta",
+        "dotw": "",
+        "date": "12/04/2022",
+        "stime": "12:00 PM",
+        "ftime": "",
+        "loc": "DH 111",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "HPA Luau Practice",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/04/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Rec Center 130D",
+        "coordinates": [
+            39.08164050554884,
+            -108.55333412041784
+        ]
+    },
+    {
+        "title": "Alpha Sigma Alpha Elected Sister Training",
+        "organization": "Alpha Sigma Alpha Theta Psi",
+        "dotw": "",
+        "date": "12/04/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "DH 313",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "CSF weekly get together",
+        "organization": "Christian Student Fellowship",
+        "dotw": "",
+        "date": "12/04/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Dominguez Hall room 204",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Hoolokahi Polynesian Alliance Fundraising",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "1:15 PM",
+        "ftime": "",
+        "loc": "Downstairs University Center",
+        "coordinates": [
+            39.08144062742309,
+            -108.55634892340127
+        ]
+    },
+    {
+        "title": "HPA Luau Practice",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Mav Center 130D",
+        "coordinates": [
+            39.084397099884015,
+            -108.55294788231237
+        ]
+    },
+    {
+        "title": "Student Nurses Association Wellness Party Meeting",
+        "organization": "Student Nurses Association",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Health Science Building Room 165",
+        "coordinates": [
+            39.08164050554884,
+            -108.55333412041784
+        ]
+    },
+    {
+        "title": "Student Nurses Association Monthly Meeting",
+        "organization": "Student Nurses Association",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Health Sciences Room 165",
+        "coordinates": [
+            39.07811206227221,
+            -108.5530567384541
+        ]
+    },
+    {
+        "title": "Master Plan Ministries Men's Bible Study",
+        "organization": "Master Plan Ministries",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "4:30 PM",
+        "ftime": "",
+        "loc": "UC 222",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Gamma Phi Beta Executive Meeting",
+        "organization": "Gamma Phi Beta",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "UC 225",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Student Investment Advisory Committee Portfolio Meeting #7",
+        "organization": "Student Investment Advisory Committee",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "6:30 PM",
+        "ftime": "",
+        "loc": "Dominguez Hall, Room 203",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "PAC Weekly Meeting",
+        "organization": "Programming Activities Council (PAC)",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "UC 224",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "PAC Weekly Meeting",
+        "organization": "Programming Activities Council (PAC)",
+        "dotw": "",
+        "date": "12/05/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "UC 224",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "HPA Fundraiser Tabling",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "10:00 AM",
+        "ftime": "",
+        "loc": "University Center 1st Floor",
+        "coordinates": [
+            39.08113530064012,
+            -108.55448367367708
+        ]
+    },
+    {
+        "title": "Mock Trial Meeting",
+        "organization": "Mock Trial",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 132",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "HPA Luau Practice",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "Mav Center 130D",
+        "coordinates": [
+            39.08022750989123,
+            -108.55448367367708
+        ]
+    },
+    {
+        "title": "Ratio Christi Weekly Meeting",
+        "organization": "Ratio Christi",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "Escalante 243",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Circle K International Meeting",
+        "organization": "Circle K International",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "UC room 222",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "InterVarsity Community Night",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "Escalante 128",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "BSA Christmas Karaoke",
+        "organization": "Black Student Alliance (BSA)",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "The Point",
+        "coordinates": [
+            39.08266487188353,
+            -108.55605924482218
+        ]
+    },
+    {
+        "title": "Master Plan Ministries Weekly Meeting",
+        "organization": "Master Plan Ministries",
+        "dotw": "",
+        "date": "12/06/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "HOUSTON HALL 139",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "8:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Clay club holiday sale",
+        "organization": "Clay Club",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "9:00 AM",
+        "ftime": "",
+        "loc": "university center",
+        "coordinates": [
+            39.08144062742309,
+            -108.55634892340127
+        ]
+    },
+    {
+        "title": "Social Work Club Leadership Meeting",
+        "organization": "Social Work Club",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "12:00 PM",
+        "ftime": "",
+        "loc": "Houston 111",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Hoolokahi Polynesian Alliance Fundraising",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "1:15 PM",
+        "ftime": "",
+        "loc": "Downstairs University Center",
+        "coordinates": [
+            39.08266487188353,
+            -108.55605924482218
+        ]
+    },
+    {
+        "title": "Stress Relief: Painting and Sugar Scrubs with PAC",
+        "organization": "Programming Activities Council (PAC)",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "3:00 PM",
+        "ftime": "",
+        "loc": "Dominguez 110",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "CJA Club Meeting",
+        "organization": "Criminal Justice Association",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 106",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "EWB Weekly Meeting",
+        "organization": "Engineers Without Borders - CMU Chapter",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "CH 305",
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    {
+        "title": "Girl Gains GBM 7",
+        "organization": "Girl Gains",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "6:00 PM",
+        "ftime": "",
+        "loc": "MC 155",
+        "coordinates": [
+            39.079316887636075,
+            -108.55620944852642
+        ]
+    },
+    {
+        "title": "ARISE Breakout Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "6:30 PM",
+        "ftime": "",
+        "loc": "UC 221, EH 303, DH 315",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "ARISE Breakout Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "6:30 PM",
+        "ftime": "",
+        "loc": "UC 221, EH 303, DH 315",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "CMU FCA Co-ed Small Group",
+        "organization": "Fellowship of Christian Athletes",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Third floor classroom in Dominguez (whatever is available)",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "Gamma Phi Beta Chapter Meeting",
+        "organization": "Gamma Phi Beta",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Dominguez 111",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "InterVarsity Bible Study (Wed.)",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante 129",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "WiSE Weekly Meeting",
+        "organization": "Women in Science and Engineering",
+        "dotw": "",
+        "date": "12/07/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Confluence Hall 105",
+        "coordinates": [
+            39.080789691789704,
+            -108.56020534569052
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/08/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Mock Trial Meeting",
+        "organization": "Mock Trial",
+        "dotw": "",
+        "date": "12/08/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 132",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "CMU FCA Men's Bible Study",
+        "organization": "Fellowship of Christian Athletes",
+        "dotw": "",
+        "date": "12/08/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante Room 324",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "CMU FCA Women's Bible Study",
+        "organization": "Fellowship of Christian Athletes",
+        "dotw": "",
+        "date": "12/08/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Third floor classroom in Dominguez (whatever is available)",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "InterVarsity Bible Study (Thurs.)",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "12/08/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante 129",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "Sexual Citizens Club: Sexuality Trivia",
+        "organization": "Sexual Citizens",
+        "dotw": "",
+        "date": "12/08/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "The Point",
+        "coordinates": [
+            39.07811206227221,
+            -108.5530567384541
+        ]
+    },
+    {
+        "title": "Ratio Christi Tabling in the UC",
+        "organization": "Ratio Christi",
+        "dotw": "",
+        "date": "12/09/2022",
+        "stime": "11:30 AM",
+        "ftime": "",
+        "loc": "UC First Floor",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Math Club Final Study Session",
+        "organization": "Math Club",
+        "dotw": "",
+        "date": "12/09/2022",
+        "stime": "3:00 PM",
+        "ftime": "",
+        "loc": "WS 112",
+        "coordinates": [
+            39.08119359872941,
+            -108.55327131517936
+        ]
+    },
+    {
+        "title": "True Crime Club BiWeekly Meeting",
+        "organization": "True Crime Club",
+        "dotw": "",
+        "date": "12/09/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Houston Hall 104",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "InterVarsity Fun Night",
+        "organization": "InterVarsity Christian Fellowship",
+        "dotw": "",
+        "date": "12/09/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "Escalante 129",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "CDA and Summit Ski Film Evening",
+        "organization": "The Outsiders",
+        "dotw": "",
+        "date": "12/09/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "UC South Ballroom",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "Dance Society Presents EMERGE",
+        "organization": "Dance Society",
+        "dotw": "",
+        "date": "12/09/2022",
+        "stime": "7:30 PM",
+        "ftime": "",
+        "loc": "Moss Performing Arts Room 304",
+        "coordinates": [
+            39.08164050554884,
+            -108.55333412041784
+        ]
+    },
+    {
+        "title": "Ho'olokahi Polynesian Alliance Club Luau Practice",
+        "organization": "Ho'olokahi Polynesian Alliance (HPA)",
+        "dotw": "",
+        "date": "12/11/2022",
+        "stime": "4:00 PM",
+        "ftime": "",
+        "loc": "Hamilton Rec Center 130 D",
+        "coordinates": [
+            39.07909483716496,
+            -108.55439784298697
+        ]
+    },
+    {
+        "title": "CSF weekly get together",
+        "organization": "Christian Student Fellowship",
+        "dotw": "",
+        "date": "12/11/2022",
+        "stime": "5:00 PM",
+        "ftime": "",
+        "loc": "Dominguez Hall room 204",
+        "coordinates": [
+            39.080253398352205,
+            -108.55550802480387
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/12/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Master Plan Ministries Men's Bible Study",
+        "organization": "Master Plan Ministries",
+        "dotw": "",
+        "date": "12/12/2022",
+        "stime": "4:30 PM",
+        "ftime": "",
+        "loc": "UC 222",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "PAC Weekly Meeting",
+        "organization": "Programming Activities Council (PAC)",
+        "dotw": "",
+        "date": "12/12/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "UC 224",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/13/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Ratio Christi Weekly Meeting",
+        "organization": "Ratio Christi",
+        "dotw": "",
+        "date": "12/13/2022",
+        "stime": "5:30 PM",
+        "ftime": "",
+        "loc": "Escalante 243",
+        "coordinates": [
+            39.08127938700822,
+            -108.55529062837465
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/14/2022",
+        "stime": "8:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "Mind Springs Donation Drive Drop-off with Social Work Club",
+        "organization": "Social Work Club",
+        "dotw": "",
+        "date": "12/14/2022",
+        "stime": "9:30 AM",
+        "ftime": "",
+        "loc": "Houston Hall 226",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "ARISE Breakout Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/14/2022",
+        "stime": "6:30 PM",
+        "ftime": "",
+        "loc": "UC 221, EH 303, DH 315",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    },
+    {
+        "title": "ARISE Prayer Group",
+        "organization": "ARISE",
+        "dotw": "",
+        "date": "12/15/2022",
+        "stime": "7:00 AM",
+        "ftime": "",
+        "loc": "Houston Hall 234",
+        "coordinates": [
+            39.07793517494754,
+            -108.55332533994391
+        ]
+    },
+    {
+        "title": "PAC Weekly Meeting",
+        "organization": "Programming Activities Council (PAC)",
+        "dotw": "",
+        "date": "12/19/2022",
+        "stime": "7:00 PM",
+        "ftime": "",
+        "loc": "UC 224",
+        "coordinates": [
+            39.08052016949416,
+            -108.55334516115636
+        ]
+    }
+]
